@@ -1,0 +1,5 @@
+frmGame = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmWaveStats = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+fmrMenu = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+Scroller = 0, 0, 0, 0, C, 0, 0, 0, 0, C
